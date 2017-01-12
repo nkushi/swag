@@ -1,5 +1,5 @@
 package Garage;
-
+"hello"
 public class Boat extends Vehicle {
 	
 	boolean hasPropellers;
